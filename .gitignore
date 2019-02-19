@@ -1,5 +1,5 @@
 Dataset/*
-proposal.docx
-Report.docx
+*.docx
 .ipynb_checkpoints/*
 saved_models/*
+*.model
